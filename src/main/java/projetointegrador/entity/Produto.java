@@ -25,4 +25,5 @@ public class Produto {
 	private Integer pontos;
 
 	private List<AtividadesTuristicas> atividades = new ArrayList<AtividadesTuristicas>();
+	
 }

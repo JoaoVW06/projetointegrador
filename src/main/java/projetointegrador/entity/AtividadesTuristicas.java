@@ -29,7 +29,18 @@ public class AtividadesTuristicas {
 	private String ParqueGuartela;
 	private String ParqueMunBuracoPadre;
 	private String ParqueEstVilaVelha;
-	private String 
-	private String
-	private String
+	private String FazendaSaoDamasio;
+	private String ReservaPartNaturalItaytyba;
+	
+	// AVENTURA
+	private String CanyonsRioJaguariaiva;
+	private String AquatrekkingTrilhaLagoAzul;
+	private String RaftingTibagi;
+	private String MorrosJacareComuna;
+	private String montanhaPedraBranca;
+	
+	//CULTURAL RURAL
+	private String MuseuColHolandesa;
+	private String MoinhoHolandesArapoti;
+	private String ColoniaWitmarsun;
 }
